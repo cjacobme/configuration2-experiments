@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<root>
+		<grankin config-class="cj.experiments.config2.entity.Person"
+		name="Sergej Grankin" birthday="1985-01-21"/>
+	</root>
+</config>
